@@ -18,7 +18,7 @@ export default function AboutPage() {
             <div>
               <Image
                 src="/professional-portrait-of-woman-in-forest-setting.jpg"
-                alt="Sara Streitman professional portrait in forest setting"
+                alt="Sam Streitman professional portrait in forest setting"
                 width={500}
                 height={600}
                 className="rounded-2xl w-full h-auto shadow-lg"

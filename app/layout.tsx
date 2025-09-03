@@ -14,7 +14,7 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: "Sara Streitman - UX Designer & Artist",
+  title: "Sam Streitman - UX Designer & Artist",
   description:
     "Experienced UX leader with 7+ years in user-centered design, prototyping, and UX research. Passionate about inclusive and data-driven design.",
   generator: "v0.app",

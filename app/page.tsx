@@ -41,7 +41,7 @@ export default function HomePage() {
             <div className="relative">
               <Image
                 src="/woman-with-long-hair-in-nature-mountain-landscape.jpg"
-                alt="Sara Streitman portrait in nature with mountain landscape"
+                alt="Sam Streitman portrait in nature with mountain landscape"
                 width={600}
                 height={700}
                 className="rounded-2xl w-full h-auto shadow-lg"
@@ -53,7 +53,7 @@ export default function HomePage() {
           {/* Hero Content */}
           <div className="order-1 lg:order-2 space-y-6 md:space-y-8">
             <div>
-              <h1 className="text-sm font-medium text-gray-500 mb-3 md:mb-4 tracking-wide">Hello, I'm Sara!</h1>
+              <h1 className="text-sm font-medium text-gray-500 mb-3 md:mb-4 tracking-wide">Hello, I'm Sam!</h1>
               <p className="text-lg md:text-xl leading-relaxed text-gray-700 font-light">
                 Experienced UX leader with 7+ years in user-centered design, prototyping, and UX research. Proven track
                 record in leading cross-functional teams to create innovative solutions that align with business goals.
